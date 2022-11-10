@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्थानीयकरण ऐप</string>
+    <string name="hello">नमस्ते</string>
+    <string name="how">आप कैसे हैं</string>
+    <string name="welcome">पंजाब में आपका स्वागत है</string>
+</resources>
